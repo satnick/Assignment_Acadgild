@@ -1,0 +1,9 @@
+class A
+{
+  A();
+}
+
+
+A a;
+int i = "Sample";
+int j = a;
